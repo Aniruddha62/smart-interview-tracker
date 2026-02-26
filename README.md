@@ -4,8 +4,6 @@ This is a full-stack application built to track job applications, interview stag
 
 The goal of this project was to build a structured dashboard-style application connected to real backend APIs.
 
----
-
 ## 🚀 Tech Stack
 
 - React
@@ -13,8 +11,6 @@ The goal of this project was to build a structured dashboard-style application c
 - Express
 - MongoDB
 - JWT Authentication
-
----
 
 ## ✨ Features
 
@@ -24,8 +20,6 @@ The goal of this project was to build a structured dashboard-style application c
 - Delete entries
 - Secure authentication
 
----
-
 ## 📁 Project Structure
 
 /backend  
@@ -33,8 +27,6 @@ Express server & MongoDB models
 
 /frontend  
 React application  
-
----
 
 ## 👨‍💻 Author
 
